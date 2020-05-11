@@ -1,0 +1,16 @@
+
+#sticky-footer {
+    flex-shrink: none;
+  }
+  
+  /* Other Classes for Page Styling */
+  
+ footer {
+     margin-top: 20px;
+    background: #007bff;
+    background: linear-gradient(to right, #0062E6, #33AEFF);
+  }
+
+  .un{
+      background-color: #0062E6;
+  }
